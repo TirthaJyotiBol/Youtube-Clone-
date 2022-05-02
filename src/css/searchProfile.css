@@ -1,0 +1,50 @@
+.SearchProfile{
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 25px;
+}
+.subscribeButton >.subscriptionButton{
+    background-color: rgb(199, 10, 10);
+    color: white;
+    border: none;
+    margin-left: -75px;
+    font-size: medium;
+    margin-top: 27px;
+    width: 125px;
+    height: 38px;
+}
+.subscribeButton >.subscriptionButton:hover{
+    background-color: rgb(255, 24, 24);
+    color: white;
+    cursor: pointer;
+}
+
+.channelName{
+    font-size: large;
+    text-align: center;
+}
+
+.avtar > .avtaar__image___profile{
+    width: 150px;
+    height: 150px;
+}
+.channelDescription{
+    width: 75%;
+}
+
+.elements__profile {
+    text-align: justify;  
+    text-align-last: left;
+    margin-top: 7px;
+    margin-left: 75px;
+    width: 20cm;
+    margin-right: -65px;
+}
+
+.elements__profile > .channelName{
+    margin-bottom: 7px;
+}
+.elements__profile > p{
+    color: rgb(54, 54, 54);
+    margin-top: 3px;
+}

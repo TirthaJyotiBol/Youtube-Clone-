@@ -1,0 +1,6 @@
+1. Header
+2. Sidebar
+3. Main Content
+
+
+# Flex is in between 0-1 (0.2 means 20%)

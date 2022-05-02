@@ -1,0 +1,32 @@
+.searchPage{
+    flex: 0.85;
+    padding: 7px;
+    background-color: rgba(158, 154, 154, 0.062);
+}
+
+.filter__section{
+    display: flex;
+    margin-left: 10%;
+    font-size: small;
+    padding: 10px;
+    color: rgb(41, 40, 40);
+}
+
+.filter__section > .filter_icon {
+    margin-right: 10px;
+}
+
+.horizantalLine{
+    width: 80%;
+    margin: auto;
+    color: black;
+}
+
+.profile{
+    margin-left: 15%;
+}
+
+#horizantalLine__belowProfile{
+    margin-top: 28px;
+    opacity: 75%;
+}
